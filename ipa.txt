@@ -1,0 +1,79 @@
+= MALT 1 =
+7 lbs LME
+1 lb c-10
+
+= HOP GEN =
+4-6x weight wet vs. dry
+
+* Schedule *
+
+Time	  HH	    B/A
+FWH	| 6.25 HH | 100/0
+60	| 6.5 HH  | 90/10
+30	| 8.5 HH  | 50/50
+10	| 10.6 HH | 0/100
+5	| 25 HH	  | 0/100
+Drain	| 32 HH	  | 0/100
+Dry Hop | ?? HH	  | 0/100
+
+* Bittering *
+Chinook	    | 12.2-15.3% AB	| 50%
+Centennial  | 8.2-10.9%  AB	| 25%
+Magnum      | 10.9-15.6%  B	| 12.5%
+Nugget	    | 13.5-15.5%  B	| 12.5%
+
+* Aromatic *
+Cascade		| 5.6-8.8% A	| 25%	 
+Glacier 	| 4.9-7.1% A	| 25%
+Willamette 	| 4.6-6.0% A	| 25%
+Fuggle: 	| 3.6-5.6% A	| 12.5%
+Northen Brewer  | 7.4-9.9% A	| 12.5%
+
+* Wet *
+Cascade		| 33%
+Glacier		| 33%
+Farmer's choice	| 33%
+
+= HOP 1 =
+1.5 oz simcoe@ 60, 19.5 HBU
+1.5 oz simcoe@ 5,  19.5 HBU
+3 oz simcoe dry hop, 39 HBU
+wlp001 or us-05
+
+= HOP 2 =
+
+0.25 oz (7 g) Citra [12% AA] at FWH 
+0.25 oz (7 g) Simcoe [13% AA] at FWH 
+
+6.25 HBU
+
+0.50 oz (14 g) Chinook [13% AA] at 60 minutes 
+
+6.5 HBU
+
+0.25 oz (7 g) Amarillo [9.2% AA] at 30 minutes 
+0.25 oz (7 g) Citra [12% AA] at 30 minutes 
+0.25 oz (7 g) Simcoe [13% AA] at 30 -minutes ]
+
+8.55 HBU
+
+0.50 oz (14 g) Amarillo [9.2% AA] at 10 minutes 
+0.50 oz (14 g) Citra [12% AA] at 10 minutes 
+
+10.6 HBU
+
+
+1 oz (28 g) Citra [12% AA] at 5 minutes 
+1 oz (28 g) Simcoe [13% AA] at 5 minutes 
+
+25 HBU
+
+1 oz (28 g) Amarillo [9.2% AA] at knockout 
+1 oz (28 g) Citra [12% AA] at knockout 
+1 oz (28 g) Simcoe [13% AA] at knockout
+
+34.2 HBU
+
+= HOP 3 =
+
+5 lb cascade/chinook
