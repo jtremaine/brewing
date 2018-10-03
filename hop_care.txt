@@ -1,0 +1,140 @@
+Northwood Hop Co.
+Hop Care Guide
+
+= What Do You Have? =
+Northwood hops are harvested, conditioned overnight,
+vacuum sealed, and frozen to 0C.
+
+Unlike most hops for home brewing, these hops are sold WET
+with 80% moisture content.
+A typical homebrewing hop is sold DRY with 10% moisture content.
+
+I pack wet hops because I prefer the flavor.
+A wet hop smells like the hopyards in September: floral, citrusy, and piney.
+A dry hop loses some of that aroma in the drying process.
+
+== Bittering/Alpha Hops ==
+My bittering hops are a blend of 4 classic northwest bittering varieties:
+25% chinook
+25% centennial
+25% magnum
+25% nugget
+
+This results in a hop blend with 14.5% AA
+
+== Aroma Hops ==
+My aroma hops are a blend of:
+50% cascade: a classic northwest hop with piney and citrusy aroma
+50% Magnum: A modern hop from WSU (GO COUGS!) with floral and fruity aromas.
+
+This results in a hop blend with 7.5% AA
+
+= Method 1: Wet Hopping =
+This is my preferred method of use.
+Choose this approach if you plan to use your hops within 3 months.
+
+Store frozen in the vacuum packing for longest life.
+
+Thaw one day before use in the refrigerator.
+
+When you brew, add 4.5x the weight of the dry hops called for in the recipe.
+E.g. If the recipe calls for 1.5 oz of dry hop,
+add 4.5 x 1.5oz = 6.75oz of wet hops.
+
+This calculation accounts for the additional water weight in the WET hops.
+
+= Method 2: Drying =
+Use this method if you will be using these hops in 3+ months.
+
+Thaw the hops in the refrigerator.
+Spread the thawed hops one layer deep on a screen.
+Sit for 2-4 weeks.
+When hops are dry, seal and freeze.
+
+Use like normal dry hops.
+
+For faster drying:
+* Spread the hops thinly
+* Turn the hops daily
+* Blow air over the hops
+* Dry the hops in a warm room
+
+= Hop Thoughts =
+Q: Why do I prefer brewing with wet hops?
+A: I love the smell of my hopyard in the fall.
+   In fact, my favorite smell is a handful of hops fresh off the bine;
+   the aroma remonds you of the freshest, most flavorful IPA you've ever stuck your
+   nose in. Mmmmmmm.
+
+   Wet hops capture this aroma much better than dry hops.
+   During the drying process some oils carrying the hop aroma are lost.
+   When you brew with wet hops you capture these oils and aromas in your beer;
+   they aren't lost to the air in the room where the hops are dried.
+
+   If you want to see this for yourself, try drying half of your hops and freezing the
+   other half. When your hops are dry thaw out your frozen bag and do a sniff test.
+   There will be a distinct difference in the intensity and palatte of the aroma.
+
+Q: What's a good recipe to use?
+A: Here's a 5 gallon IPA I brewed this fall. It's still fermenting at the moment.
+
+  7 lbs LME Pale Ale malt
+  1 lb c-10 crystal malt
+  11 oz US-05 yeast
+  1.5 oz DRY bittering hop blend (or 6.75 oz WET)
+  3 oz DRY aroma hop blend (13.75 oz WET)
+  1.5 oz DRY aroma hop in fermenter (or 6.75 oz WET)
+
+  Water + c-10 in a straining bag for 30 mins at 150F
+  Remove c-10 straining bag
+  Boil LME Pale 60 mins
+  Bittering hops: 60mins
+  Aroma hops at: 30mins, 10mins, 5mins.
+  Add a bag with 1.5 oz of Aroma hops to the fermenter
+  Pitch US-05 at 80F
+
+Q: Why do you blend your hops? I prefer to use variety X by itself?
+   This makes it hard to follow my favorite recipes!?
+A: I prefer the fuller flavor palatte of a hop blend.
+   XXXJAT: Why?
+
+Q: Why do you condition your hops? Shouldn't you freeze them immediately to
+   capture the most aroma?
+A: I've tried both ways, but I prefer the conditioning for 2 reasons:
+   1) Freshly picked hops will often have surface moisture on the cones from dew,
+      fog, or humidity (remember that they are picked in the PNW in the fall).
+      Conditioning dries off this moisture, increasing shelf life.
+   2) Freshly picked hops have a slight "Vegetal" scent: they have a slight aroma of
+      wet grass. This scent is undesireable to my nose. Conditioning overnight
+      allows this scent to dissapate.
+
+Q: Can I get some hop Rhizomes?
+A; Hell yeah! Just ask me.
+   But remember: hop plants are aggressize growers and an invasive species.
+   If they escape from your growing receptacle they will destroy local plant life.
+   I have: Cascade, Chinook, Centennial, CAscade, Columbus, Fuggle, Nugget,
+   Magnum, and Willamette rhizomes available.
+
+Q: Can I get more hops?
+A: Just ask me. I usually have some spare hops in my freezer.
+
+Q: Help! My hops are covered in Bugs!
+A: Aphids and mites love hop plants. They suck out the oils from your plants like
+   thirsty little assholes. I can't really blame them though: hop oils are delicious.
+   Spray down your plant with a horticultural oil weekly in July, August, and September
+   to increase the quality of your harvest.
+
+Q: Anyone you want to thank?
+A: Oh yeah.
+
+   Shout out to my man Larry for providing the land, equipment, and farming expertise.
+   Shout out to my lady Erin for the labor and the support.
+   Shout out to my bro Derek for the labor and the ideas.
+   Shout out to my man Dillon for hooking me up with BBB!
+   Shout out to my man Brett for the expertize, the rhizomes, and the equipment.
+   Shout out to John Ryan and Jon Brouwer for beta testing.
+   Shout out to Cloudburst for giving me a chance.
+   Shout out to Boundary Bay for testing my hops in a commercial brew!
+   Shout out to my wife for putting up with this shit.
+   Shout out to beer for being delicious.
+   Shout out to me for the hours and hours and hours of labor and research.
