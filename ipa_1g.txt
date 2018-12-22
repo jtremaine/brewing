@@ -1,0 +1,54 @@
+Bittering: 13.25 %AA
+Aroma: 7.5 %AA
+
+= Model 1, 1g =
+All weights wet
+
+1 oz Bittering, 13.5% at 60 min
+0.5 oz Bittering, 13.5% at 20 min
+0.5 oz Aroma, 7.5% at 20 min
+1 oz Bittering, 13.5% at 5 mins
+1 oz Aroma, 7.5% at 5 mins
+
+Drain with aroma
+Dry hop with aroma
+
+1g_w = (5g_w / 5)
+1g_ww = 1g_w * 5
+1g_ww = 5g_w
+
+= Model 1, 5g =
+
+All weights dry
+
+1 oz (28 g) Simcoe [10% AA] at 45 minutes 
+1 oz (28 g) Simcoe [10% AA] at 20 minutes 
+1 oz (28 g) Simcoe [10% AA] at 5 minutes 
+1 oz (28 g) Centennial [9% AA] at 5 minutes
+
+= Model 2, 1g =
+
+      oz B   oz A
+FWH | 0.5  | 0
+60  | 0.5  | 0
+30. | 0.3  | 0.5
+10. | 0    | 1.2
+5.  | 0.   | 3
+
+= Model 2, 5g =
+
+4.5 x dry = wet
+e.g. WW_B = W_B * 4.5
+
+Target weight: 5oz dry, 22.5 oz wet
+
+
+Time	  HH	      B/A	    W_B/W_A	    WW_B/WW_A
+FWH	  | 6.25 HH | 100/0	| 0.47/0	  | 2.11/0
+60	  | 6.5 HH  | 90/10	| 0.5/0.1	  | 2.25/0.45
+30	  | 8.5 HH  | 50/50	| 0.32/0.56	| 1.44/2.52
+10	  | 10.6 HH | 0/100	| 0/1.41	  | 0/6.345
+5	    | 25 HH	  | 0/100	| 0/3.33	  | 0/14.9
+
+Drain	| 32 HH	  | 0/100	| 0/4.26	  | 19.169
+Dry   | ?? HH	  | 0/100	| 1/4		    | 4.5/18
