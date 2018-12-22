@@ -1,46 +1,76 @@
-= MALT 1 =
-7 lbs LME
+Fresh hop IPA
+
+Northwood
+This Definitely Killed a Guy
+IPA
+
+Fresh hops 4 dayz
+
+= MALT =
+
+7 lbs LME Pale Ale
 1 lb c-10
+11 oz US-05
 
-= HOP GEN =
-4-6x weight wet vs. dry
-
-* Schedule *
-
-Time	  HH	    B/A
-FWH	| 6.25 HH | 100/0
-60	| 6.5 HH  | 90/10
-30	| 8.5 HH  | 50/50
-10	| 10.6 HH | 0/100
-5	| 25 HH	  | 0/100
-Drain	| 32 HH	  | 0/100
-Dry Hop | ?? HH	  | 0/100
+= HARVEST =
+Harvest at 80% M
+Brew at 10% M
+4.5x dry -> wet
 
 * Bittering *
-Chinook	    | 12.2-15.3% AB	| 50%
-Centennial  | 8.2-10.9%  AB	| 25%
-Magnum      | 10.9-15.6%  B	| 12.5%
-Nugget	    | 13.5-15.5%  B	| 12.5%
+                                  AA%             Weight
+Chinook	    | 12.2-15.3% AB	| 15 	| 35%	| 20.9
+Centennial  | 8.2-10.9%  AB	| 10	| 35%	| 20.9
+Magnum      | 10.9-15.6%  B	| 15	| 15%	| 9.1
+Nugget	    | 13.5-15.5%  B	| 15	| 15%	| 9.1
+AGGREGATE   | 		  	| 13.24	| 100%	| 56.6
 
 * Aromatic *
-Cascade		| 5.6-8.8% A	| 25%	 
-Glacier 	| 4.9-7.1% A	| 25%
-Willamette 	| 4.6-6.0% A	| 25%
-Fuggle: 	| 3.6-5.6% A	| 12.5%
-Northen Brewer  | 7.4-9.9% A	| 12.5%
+				  AA%              Weight
+Cascade		| 5.6-8.8% A	| 8	| 50%	 | 27.8
+Glacier 	| 4.9-7.1% A	| 7	| 50%	 | 28.8
+AGGREGATE	| 7.4%	   A	| 7.5%	| 100%	 | 50
 
 * Wet *
-Cascade		| 33%
-Glacier		| 33%
-Farmer's choice	| 33%
+Cascade		| 33%	|
+Glacier		| 33%	|
+Farmer's choice	| 33%	|
+Aggregate	| 100%	| 80
 
-= HOP 1 =
+= HOP =
+4.5 x dry = wet
+e.g. WW_B = W_B * 4.5
+
+* Schedule *
+Time	  HH	    B/A		  *W_B/W_A	| *WW_B/WW_A
+FWH	| 6.25 HH | 100/0	| 0.47/0	| 2.11/0
+60	| 6.5 HH  | 90/10	| 0.5/0.1	| 2.25/0.45
+30	| 8.5 HH  | 50/50	| 0.32/0.56	| 1.44/2.52
+10	| 10.6 HH | 0/100	| 0/1.41	| 0/6.345
+5	| 25 HH	  | 0/100	| 0/3.33	| 0/14.9
+Drain	| 32 HH	  | 0/100	| 0/4.26	| 19.169
+Dry Hop | ?? HH	  | 0/100	| 1/4		| 4.5/18
+
+* Total Dry Weights *
+W_B = 0.43+0.4+0.3
+W_B = 1.13oz
+W_A = 0.08 + 0.57 + 1.4 + 3.37 + 4.32
+W_A = 9.74oz
+
+* Total Wet Weights *
+WW_B=2+1.8+1.34
+WW_B=5.14
+WW_A=0.36+2.5+6.3+15.16+19.44
+WW_A=43.76
+WW_WH=80
+
+= HOP Model 1 =
 1.5 oz simcoe@ 60, 19.5 HBU
 1.5 oz simcoe@ 5,  19.5 HBU
 3 oz simcoe dry hop, 39 HBU
 wlp001 or us-05
 
-= HOP 2 =
+= HOP Model 2 =
 
 0.25 oz (7 g) Citra [12% AA] at FWH 
 0.25 oz (7 g) Simcoe [13% AA] at FWH 
@@ -74,6 +104,10 @@ wlp001 or us-05
 
 34.2 HBU
 
-= HOP 3 =
+= HOP Model 3 =
 
+3OZ -> 5 LBS
 5 lb cascade/chinook
+
+5 lbs -> 80 oz
+16 oz/lb
